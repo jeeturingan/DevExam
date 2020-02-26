@@ -1,0 +1,9 @@
+TODO App
+
+Create a todo app react application 
+* Create an external json file
+* This json file will act as your database 
+* Todo App should have 
+  * user can add task 
+  * user can set task to done
+  * user can edit task

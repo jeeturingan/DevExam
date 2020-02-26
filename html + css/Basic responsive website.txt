@@ -1,0 +1,36 @@
+Front End static Website implementation
+* Create a static website based on the mockup attached to this file
+
+Tech use: 
+HTML + CSS
+Bootstrap or any UI Framework are welcome to use 
+use of jquery is highly appreciated
+
+* Website should handle different resolution from 1440x900 highest to the 320x480 lowest
+* Use of flexbox is a must
+* HTML5 is a must
+* External CSS 
+* Well organized folder structure is a plus containing imgs, css and html file
+
+----- content
+* homepage 
+  -> remove arrow keys
+* About us
+  -> provide a sample image for hexagon 
+* Our experties
+  -> kindly provide another image for rounded content 
+     -> full spectrum, infrastructure, digital and others
+* Recently completed assignment
+  -> copy the content
+* clients
+  -> provide a sample image in the bubble
+* client testimonials
+  -> copy the content
+* canditates
+  -> copy the content
+* meet the team
+  -> copy the content
+* contact
+  -> just provide sample image for map
+
+

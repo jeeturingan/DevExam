@@ -1,0 +1,9 @@
+Create a console application where user can input random numbers 
+
+* Random numbers should be sorting using different sorting algorithm
+-> Select one of the following
+  -> bubble sort
+  -> selection sort
+  -> insertion sort
+  -> shell sort
+  -> quick sort
